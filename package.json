@@ -164,6 +164,11 @@
     }
   },
   "nodemonConfig": {
+    "watch": [
+      ".env",
+      "lib",
+      "test"
+    ],
     "ext": "art,js,mjs,json"
   },
   "engines": {
