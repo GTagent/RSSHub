@@ -586,6 +586,12 @@
     "/chaping/newsflash": [
         "Fatpandac"
     ],
+    "/china/news/military": [
+        "jiaaoMario"
+    ],
+    "/china/news/:category?": [
+        "jiaaoMario"
+    ],
     "/chinacef/": [
         "FledgeXu"
     ],
@@ -2411,6 +2417,9 @@
     ],
     "/ntdtv/:language/:id": [
         "Fatpandac"
+    ],
+    "/nua/gra/:type": [
+        "evnydd0sf"
     ],
     "/nuaa/cs/:type/:getDescription?": [
         "LogicJake",
